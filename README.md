@@ -11,8 +11,8 @@ Le projet est divisé en 3 notebooks
 
 La présentation du projet est disponible dans le fichier pdf **ElHouri_Marwa_4_presentation_072022**
 
-## Compétences
-* Preparer des donnees, identifier des informations potentiellement importantes pour la segmentation 
+## Notions traitées
+* Préparer des données, identifier des informations potentiellement importantes pour la segmentation 
 * Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
 * Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier (PCA, Kmeans, DBSCAN)
 * Évaluer les performances d’un modèle d'apprentissage non supervisé 
